@@ -1,5 +1,7 @@
 
 import Navbar from 'react-bootstrap/Navbar';
+import Button from 'react-bootstrap/Button';
+import Nav from 'react-bootstrap/Nav';
 
 function TopBar() {
   return (
